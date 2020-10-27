@@ -1,6 +1,6 @@
 {
   "name": "@uooobarry/create-express-ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create express api server with typescript",
   "main": "index.js",
   "bin": "index.js",
@@ -20,9 +20,6 @@
     "url": "https://github.com/UoooBarry/create-express-ts/issues"
   },
   "homepage": "https://github.com/UoooBarry/create-express-ts#readme",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "dependencies": {
     "shelljs": "^0.8.4"
   },
