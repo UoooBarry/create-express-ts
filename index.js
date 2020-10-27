@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const shell = require('shelljs');
 const args = process.argv.slice(2);
 
