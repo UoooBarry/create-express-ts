@@ -1,0 +1,22 @@
+{
+  "name": "@uooobarry/create-express-ts",
+  "version": "1.0.0",
+  "description": "Create express api server with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UoooBarry/create-express-ts.git"
+  },
+  "keywords": [
+    "create-express-ts"
+  ],
+  "author": "UoooBarry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UoooBarry/create-express-ts/issues"
+  },
+  "homepage": "https://github.com/UoooBarry/create-express-ts#readme"
+}
